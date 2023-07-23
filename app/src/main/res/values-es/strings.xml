@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multi Lenguaje</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="click_me">Click aquí</string>
+    <string name="photo">Toma una foto</string>
+    <string name="video">Toma un video</string>
+
+</resources>
